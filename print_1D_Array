@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declaring and initializing an array of 5 integers
+    int myNumbers[5] = {10, 20, 30, 40, 50};
+
+    // Access and print the first element (Index starts at 0)
+    cout << "First element: " << myNumbers[0] << endl;
+
+    // Changing the value of the second element
+    myNumbers[1] = 25;
+
+    // Loop through and print all elements
+    cout << "All elements: ";
+    for (int i = 0; i < 5; i++) {
+        cout << myNumbers[i] << " ";
+    }
+
+    return 0;
+}
