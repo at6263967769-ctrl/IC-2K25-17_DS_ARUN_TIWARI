@@ -10,3 +10,17 @@ cpp-programs/
 ├── 07_stack_implementation.cpp
 │
 └── README.md
+┌─────────────────────────────────────┐
+│           C++ PRACTICE              │
+├─────────────────────────────────────┤
+│ ✓ Variables & Input/Output          │
+│ ✓ Arrays                            │
+│ ✓ 2D Arrays                         │
+│ ✓ Loops                             │
+│ ✓ Functions                         │
+│ ✓ Recursion                         │
+│ ✓ Searching                         │
+│ ✓ Classes & Objects                 │
+│ ✓ Encapsulation                     │
+│ ✓ Stack Data Structure              │
+└─────────────────────────────────────┘
