@@ -1,5 +1,5 @@
 # IC-2K25-17_DS_ARUN_TIWARI
-cpp-programs/
+<pre>cpp-programs/
 │
 ├── 01_reverse_array.cpp
 ├── 02_matrix_transpose.cpp
@@ -24,3 +24,4 @@ cpp-programs/
 │ ✓ Encapsulation                     │
 │ ✓ Stack Data Structure              │
 └─────────────────────────────────────┘
+</pre>
