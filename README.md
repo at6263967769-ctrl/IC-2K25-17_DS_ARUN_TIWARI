@@ -203,13 +203,9 @@ This reduces memory consumption from $O(\text{rows} \times \text{cols})$ down to
 
 - **Author:** Arun Tiwari
 - **GitHub:** [@at6263967769-ctrl](https://github.com/at6263967769-ctrl)
-- **LinkedIn:** [Arun Tiwari](https://www.linkedin.com/in/arun-tiwari-3344b1375)
-- **LeetCode:** [Arun_Tiwari2007](https://leetcode.com/u/Arun_Tiwari2007/)
-- **GeeksforGeeks:** [at62639k0kp](https://www.geeksforgeeks.org/profile/at62639k0kp)
-- **HackerRank:** [at6263967769](https://www.hackerrank.com/profile/at6263967769)
+
 
 ---
 
-## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
