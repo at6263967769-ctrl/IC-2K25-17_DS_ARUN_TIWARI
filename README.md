@@ -208,4 +208,3 @@ This reduces memory consumption from $O(\text{rows} \times \text{cols})$ down to
 ---
 
 
-This project is open-source and available under the [MIT License](LICENSE).
