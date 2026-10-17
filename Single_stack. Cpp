@@ -1,0 +1,46 @@
+#de#define max 10
+int stack[max];
+int s[1];
+
+void initialization() {
+    s[0] = -1;
+}
+
+void push(int newel) {
+    if (s[0] == max - 1) {
+        cout << "Overflow---\n";
+    } else {
+        s[0] = s[0] + 1;
+        stack[s[0]] = newel;
+    }
+}
+
+int is_full_stack() {
+    return (s[0] == max - 1) ? 1 : 0;
+}
+
+int is_empty_stack() {
+    return (s[0] == -1) ? 1 : 0;
+}
+
+int pop() {
+    int delel = -9999;
+    if (s[0] == -1) {
+        cout << "Underflow---\n";
+    } else {
+        delel = stack[s[0]];
+        s[0] = s[0] - 1;
+    }
+    return delel;
+}
+
+void dispstack() {
+    int i;
+    if (s[0] == -1) {
+        cout << "Stack is empty\n";
+    } else {
+        for (i = s[0]; i >= 0; i--) {
+            cout << "\n" << stack[i] << "\n";
+        }
+    }
+}
